@@ -3,4 +3,4 @@ Vital Scan is an open source symptom checker designed to help users identify pot
 
 Live URL : https://vital-scan-symptom-checker-72yh32yfbtrm9rg6udg3lw.streamlit.app/
 
-This was literally my first Software Project Of Btech lol!
+This was literally my first Software Project Of Btech lol! that too was done in Winter Break due to Compulsory task given by Google Developer Groups committee !
