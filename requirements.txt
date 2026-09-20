@@ -3,3 +3,5 @@ langchain
 langchain-google-genai
 google-generativeai
 python-dotenv
+fastapi 
+react + vite 
