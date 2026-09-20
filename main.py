@@ -26,7 +26,7 @@ st.title("Vital Scan 🩺")
 with st.container(border=True):
     symptoms = st.text_area(
         "Describe your symptoms here:",
-        placeholder="e.g., headache, fever, cough",
+        placeholder="e.g., headache, body pain, sore throat",
         height=150
     )
 
